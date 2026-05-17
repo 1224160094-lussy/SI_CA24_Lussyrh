@@ -5,7 +5,7 @@
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>login dulu bro</title>
+<title>login</title>
 
 <link href="<?= base_url('assets/vendor/fontawesome-free/css/all.min.css');?>" rel="stylesheet">
 <link href="<?= base_url('assets/css/sb-admin-2.min.css');?>" rel="stylesheet">
@@ -20,7 +20,7 @@
 .bg-login-3d-inner {
     width: 100%;
     height: 100%;
-    background: url('https://th.bing.com/th/id/OIP.zT8QbtrALgISgAB_2nWMuwHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3');
+    background-image: url('../../../assets/suga.jpg');
     background-size: cover;
     background-position: center;
     animation: auto3d 7s infinite ease-in-out;
@@ -61,7 +61,7 @@
 <div class="p-5">
 
 <div class="text-center">
-    <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
+    <h1 class="h4 text-gray-900 mb-4">Welcome!</h1>
 </div>
 
 <?php if ($this->session->flashdata('error')): ?>
