@@ -20,7 +20,7 @@
 .bg-login-3d-inner {
     width: 100%;
     height: 100%;
-    background-image: url('../../../assets/suga.jpg');
+    background : url('https://cdn.kbizoom.com/media/2026/03/27081052/dq4ch6nvbgexssdey-dlsaawp0-zxuhmzhr29k89xuo-suga-comeback-transformation.jpg');
     background-size: cover;
     background-position: center;
     animation: auto3d 7s infinite ease-in-out;
