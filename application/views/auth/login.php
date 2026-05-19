@@ -20,7 +20,7 @@
 .bg-login-3d-inner {
     width: 100%;
     height: 100%;
-    background : url('https://cdn.kbizoom.com/media/2026/03/27081052/dq4ch6nvbgexssdey-dlsaawp0-zxuhmzhr29k89xuo-suga-comeback-transformation.jpg');
+    background : url("https://i0.wp.com/www.rukita.co/stories/wp-content/uploads/2022/04/Screen-Shot-2022-04-13-at-09.32.35.png?fit=1184%2C924&ssl=1")
     background-size: cover;
     background-position: center;
     animation: auto3d 7s infinite ease-in-out;
