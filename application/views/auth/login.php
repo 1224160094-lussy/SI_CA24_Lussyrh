@@ -20,12 +20,14 @@
 .bg-login-3d-inner {
     width: 100%;
     height: 100%;
-    background : url("https://i0.wp.com/www.rukita.co/stories/wp-content/uploads/2022/04/Screen-Shot-2022-04-13-at-09.32.35.png?fit=1184%2C924&ssl=1")
+    background-image: url('https://wallpapercave.com/wp/wp9421293.jpg');
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     animation: auto3d 7s infinite ease-in-out;
     transform-style: preserve-3d;
 }
+
 
 /* ANIMASI AUTO */
 @keyframes auto3d {
