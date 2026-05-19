@@ -20,7 +20,7 @@
 .bg-login-3d-inner {
     width: 100%;
     height: 100%;
-    background-image: url('https://wallpapercave.com/wp/wp9421293.jpg');
+    background-image: url('<?= base_url("assets/img/suga.jpg"); ?>');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
